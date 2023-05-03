@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+}
+img{
+    height: 150px;
+    width: 200px;
+}
+.btn{
+    background-color: blueviolet;
+    border-radius: 20%;
+}
+footer{
+    text-align: center;
+    min-height: 200px;
+    background-color: red;
+    margin: auto;
+}
